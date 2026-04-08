@@ -1,0 +1,5 @@
+{
+  "name": "CERN Digital Twin: Superconducting Magnets",
+  "description": "A high-performance digital twin platform for simulating and monitoring superconducting magnet circuits in real-time.",
+  "requestFramePermissions": []
+}
